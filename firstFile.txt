@@ -4,7 +4,7 @@ git_1_line3
 git_1_line4
 git_1_line5
 git_1_line6
-line7
-line8
+git_1_line7
+git_1_line8
 line9
 line10
